@@ -4,6 +4,7 @@
   "description": "Theme optimized for personal use for React, TypeScript, Python, and JSON.",
   "version": "1.0.0",
   "publisher": "deepak",
+  "repository": "github:deepakkumarsharma/antigravity-light-dark-theme",
   "engines": {
     "vscode": "^1.80.0"
   },
