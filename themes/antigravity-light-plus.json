@@ -8,7 +8,7 @@
     "activityBar.background": "#FFFFFF",
     "activityBar.foreground": "#111111",
     "activityBar.border": "#EEEEEE",
-    "sideBar.background": "#FFFFFF",
+    "sideBar.background": "#FAFAFA",
     "sideBar.foreground": "#666666",
     "sideBar.border": "#EEEEEE",
     "sideBarTitle.foreground": "#111111",
@@ -18,39 +18,39 @@
     "editorGroupHeader.tabsBackground": "#FFFFFF",
     "tab.activeBackground": "#FFFFFF",
     "tab.activeForeground": "#111111",
-    "tab.inactiveBackground": "#FFFFFF",
+    "tab.inactiveBackground": "#FAFAFA",
     "tab.inactiveForeground": "#999999",
-    "tab.border": "#FFFFFF",
-    "editor.lineHighlightBackground": "#F7F7F7",
+    "tab.border": "#EEEEEE",
+    "editor.lineHighlightBackground": "#F1F1F1",
     "editorCursor.foreground": "#FF7A59",
-    "editor.selectionBackground": "#1111111A",
+    "editor.selectionBackground": "#11111120",
     "editorBracketHighlight.foreground1": "#FF7A59",
     "editorBracketHighlight.foreground2": "#00A38E",
     "editorBracketHighlight.foreground3": "#D35400",
     "list.activeSelectionBackground": "#111111",
     "list.activeSelectionForeground": "#FFFFFF",
     "list.inactiveSelectionBackground": "#EEEEEE",
-    "list.hoverBackground": "#F0F0F0",
-    "sideBarTitle.background": "#FFFFFF",
+    "list.hoverBackground": "#F5F5F5",
+    "sideBarTitle.background": "#FAFAFA",
     "breadcrumb.foreground": "#999999",
     "editorSuggestWidget.background": "#FFFFFF",
-    "editorSuggestWidget.border": "#EEEEEE",
+    "editorSuggestWidget.border": "#111111",
     "editorSuggestWidget.foreground": "#111111",
     "editorSuggestWidget.highlightForeground": "#FF7A59",
-    "editorSuggestWidget.selectedBackground": "#FFD8B1",
-    "editorSuggestWidget.selectedForeground": "#111111",
-    "editorSuggestWidget.focusHighlightForeground": "#111111",
+    "editorSuggestWidget.selectedBackground": "#111111",
+    "editorSuggestWidget.selectedForeground": "#FFFFFF",
+    "editorSuggestWidget.focusHighlightForeground": "#FFFFFF",
     "editorHoverWidget.background": "#FFFFFF",
-    "editorHoverWidget.border": "#EEEEEE",
+    "editorHoverWidget.border": "#111111",
     "editorWidget.background": "#FFFFFF",
-    "editorWidget.border": "#EEEEEE",
+    "editorWidget.border": "#111111",
     "editorWidget.foreground": "#111111"
   },
   "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#A0A0A0",
+        "foreground": "#808080",
         "fontStyle": "italic"
       }
     },
@@ -90,7 +90,7 @@
     {
       "scope": ["variable.language.special.self", "variable.parameter", "variable.other.property"],
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#0969DA"
       }
     },
     {
@@ -102,7 +102,7 @@
     {
       "scope": ["punctuation", "meta.brace", "keyword.operator"],
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#666666"
       }
     }
   ],

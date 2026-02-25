@@ -85,7 +85,7 @@
     {
       "scope": ["variable.language.special.self", "variable.parameter", "variable.other.property"],
       "settings": {
-        "foreground": "#808080"
+        "foreground": "#FFD8B1"
       }
     },
     {
