@@ -1,0 +1,35 @@
+{
+  "name": "antigravity-light-dark-theme",
+  "displayName": "Antigravity Light-Dark Theme",
+  "description": "Theme optimized for personal use for React, TypeScript, Python, and JSON.",
+  "version": "1.0.0",
+  "publisher": "deepak",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Antigravity Vesper Pro Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/antigravity-dark.json"
+      },
+      {
+        "label": "Antigravity Vesper Pro Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/antigravity-dark-plus.json"
+      },
+      {
+        "label": "Antigravity Vesper Pro Light",
+        "uiTheme": "vs",
+        "path": "./themes/antigravity-light.json"
+      },
+      {
+        "label": "Antigravity Vesper Pro Light+",
+        "uiTheme": "vs",
+        "path": "./themes/antigravity-light-plus.json"
+      }
+    ]
+  }
+}
