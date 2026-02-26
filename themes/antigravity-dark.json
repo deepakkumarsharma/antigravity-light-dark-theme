@@ -40,7 +40,12 @@
     "editorHoverWidget.border": "#333333",
     "editorWidget.background": "#1C1C1C",
     "editorWidget.border": "#333333",
-    "editorWidget.foreground": "#E0E0E0"
+    "editorWidget.foreground": "#E0E0E0",
+    "editorError.foreground": "#F87171",
+    "editorError.background": "#EF444420",
+    "editorError.border": "#00000000",
+    "editorOverviewRuler.errorForeground": "#F87171",
+    "list.errorForeground": "#F87171"
   },
   "tokenColors": [
     {
